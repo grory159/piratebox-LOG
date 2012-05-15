@@ -1,4 +1,0 @@
-piratebox-LOG
-=============
-
-piratebox log
